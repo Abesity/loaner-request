@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">d6730f5618f703107f447db527a21c7e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>User [sys_user]s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loaner_r_0_user__sys_user_</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_cdltd_loaner_r_0.user</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-10 13:08:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16730f5618f703107f447db527a21c84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User [sys_user]s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">57f187d218f703107f447db527a21c91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">57f187d218f703107f447db527a21c91</sys_scope>
+        <sys_update_name>sys_app_module_16730f5618f703107f447db527a21c84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-10 13:08:07</sys_updated_on>
+        <timeline_page/>
+        <title>User [sys_user]s</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">57f187d218f703107f447db527a21c91</application>
+        <file_path/>
+        <instance_id>3a880ada873b4710b57eb956dabb359a</instance_id>
+        <instance_name>nowlearning-nlinst04770946-15eqn-0001</instance_name>
+        <name>sys_app_module_16730f5618f703107f447db527a21c84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">d6730f5618f703107f447db527a21c7e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>User [sys_user]s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loaner_r_0_user__sys_user_</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_cdltd_loaner_r_0.user</roles><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 13:08:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16730f5618f703107f447db527a21c84</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User [sys_user]s</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">57f187d218f703107f447db527a21c91</sys_package><sys_policy/><sys_scope display_value="Loaner Request">57f187d218f703107f447db527a21c91</sys_scope><sys_update_name>sys_app_module_16730f5618f703107f447db527a21c84</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 13:08:07</sys_updated_on><timeline_page/><title>User [sys_user]s</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1680633862</payload_hash>
+        <record_name>User [sys_user]s</record_name>
+        <reverted_from/>
+        <source>dbf187d218f703107f447db527a21ca3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-10 13:08:07</sys_created_on>
+        <sys_id>92730f5618f703107f447db527a21c95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a125ed8cd60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-10 13:08:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>56730f562cf70310628f44ab95a2a094</update_guid>
+        <update_guid_history>56730f562cf70310628f44ab95a2a094:1680633862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User [sys_user]s">448b1f5e187b03107f447db527a21cdc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-10 14:53:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>75832e7f5d0741008e046cab64963d90</sys_id>
+        <sys_metadata>16730f5618f703107f447db527a21c84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User [sys_user]s</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">57f187d218f703107f447db527a21c91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">57f187d218f703107f447db527a21c91</sys_scope>
+        <sys_scope_delete display_value="">3923cf8dd0264920974e8aa74f13bee1</sys_scope_delete>
+        <sys_update_name>sys_app_module_16730f5618f703107f447db527a21c84</sys_update_name>
+        <sys_update_version display_value="sys_app_module_16730f5618f703107f447db527a21c84">92730f5618f703107f447db527a21c95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-10 14:53:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
